@@ -1,0 +1,273 @@
+Rank,Name,Market Sectors,Active users (daily) (30d latest),Active users (daily) (30d change)
+1,BNB Chain,blockchains-l1,4685941,0.12350134996884318
+2,NEAR Protocol,blockchains-l1,2964820,1.6996619071423824
+3,Tron,blockchains-l1,2674650,0.06872117072048026
+4,Solana,blockchains-l1,2480445,-0.041846046875452673
+5,World Mobile Chain,infrastructure,2233627,0.16661939867806322
+6,opBNB,blockchains-l2,2009555,0.18436655362596613
+7,Base,blockchains-l2,873182,-0.18111959726609098
+8,Jito,liquid-staking,754078,0.22545563870674173
+9,Aptos,blockchains-l1,750220,-0.24593502268064862
+10,Celo,blockchains-l2,648189,0.028499209809783127
+11,Raydium,exchange,642133,0.23933753565734975
+12,Polygon,blockchains-l1,553948,-0.028195501912213608
+13,Uniswap,exchange,505530,-0.21060028294904107
+14,Bitcoin,blockchains-l1,499777,0.08952715223125722
+15,PancakeSwap,exchange,478405,0.038795929977548
+16,Ethereum,blockchains-l1,464704,-0.028691702669768473
+17,Arbitrum One,blockchains-l2,321440,-0.27361639334630444
+18,Ronin,blockchains-l1,273536,-0.04693945813357119
+19,pump.fun,exchange,111078,-0.33294899742374834
+20,Meteora,exchange,97809,-0.17780617177058028
+21,TON,blockchains-l1,95788,0.046840506218443316
+22,QuickSwap,exchange,84062,0.0898318488843945
+23,Injective,blockchains-l1,82985,0.03130514751572092
+24,Phantom,dex-aggregators,82750,-0.1208312527225014
+25,Hyperliquid,derivatives,79390,0.2657642575851788
+26,OP Mainnet,blockchains-l2,76468,0.21950752743046695
+27,Linea,blockchains-l2,74914,0.43411757949346247
+28,Stellar,blockchains-l1,70930,0.006213471032173863
+29,Orca,exchange,68312,0.14679022293849048
+30,Worldcoin,infrastructure,65949,-0.2469684167256617
+31,World Chain,blockchains-l2,65945,0.32180797755061136
+32,Soneium,blockchains-l2,61035,0.6217616580310881
+33,Ink,blockchains-l2,58249,-0.2217798500981977
+34,KyberSwap,dex-aggregators,52867,3.9311631377669993
+35,Avalanche,blockchains-l1,51493,0.19645429620335517
+36,Aerodrome,exchange,44424,-0.14945433658816773
+37,Immutable zkEVM,blockchains-l2,43592,0.2127754284442466
+38,Immutable,blockchains-l2,43592,0.2127754284442466
+39,Dogecoin,blockchains-l1,42200,-0.48557287920714837
+40,Algorand,blockchains-l1,33516,2.1895698515416826
+41,Axiom Trade,exchange,33343,-0.25331989698801927
+42,Polymarket,prediction-markets,29438,0.04892214502048815
+43,MultiversX,blockchains-l1,28021,-0.16397648954262017
+44,Viction,blockchains-l1,27504,0.029688143461495266
+45,XPLA,blockchains-l1,22809,0.1512138494927573
+46,Metis,blockchains-l2,22427,9.387679481241316
+47,Uniswap Labs,exchange,22210,-0.03270763468490048
+48,Sonic,blockchains-l1,18715,0.22971285892634208
+49,MetaMask,dex-aggregators,18405,0.511207816733722
+50,SushiSwap,exchange,17791,-0.12686493914409108
+51,Aave,lending,16655,0.8943357597816196
+52,Unichain,blockchains-l2,16606,-0.028888888888888888
+53,Trojan,infrastructure,14673,-0.37923594364767105
+54,1inch,dex-aggregators,14400,-0.2556600847720459
+55,Berachain,blockchains-l1,14017,-0.12344443749609155
+56,DODO,exchange,13797,0.6076672104404568
+57,Manta,blockchains-l2,12397,2.0876712328767124
+58,Fantom,blockchains-l1,12375,-0.6498500367834305
+59,Movement,blockchains-l1,11597,-0.056003256003256
+60,Balancer,exchange,11483,-0.5296743805037887
+61,Fluid,lending,11375,1.035612025769506
+62,Photon,derivatives,10488,-0.4147321428571429
+63,Etherex,exchange,9232,3.344470588235294
+64,Cosmos Hub,blockchains-l1,8867,-0.12147032596849301
+65,Mythos,blockchains-l2,8815,0.17737411513289703
+66,zkSync Era,blockchains-l2,8511,-0.11288305190744215
+67,Camelot,exchange,7568,0.2357935989549314
+68,Velodrome,exchange,7438,0.080319535221496
+69,LFJ,exchange,7341,0.13655364607524384
+70,Biswap,exchange,7287,1.3844895287958114
+71,BullX,infrastructure,7118,-0.40885308529191927
+72,Maverick Protocol,exchange,7101,-0.669905169207884
+73,GMGN,infrastructure,6922,-0.3587772116720704
+74,ApeSwap,exchange,6621,0.6507105459985041
+75,Boba Network,blockchains-l2,5935,3.0818431911966986
+76,Gnosis,blockchains-l1,5826,-0.8739315776945881
+77,Scroll,blockchains-l2,5670,0.016493366798135532
+78,Starknet,blockchains-l2,5557,-0.23845415924352473
+79,OpenSea,nft,5518,-0.1072641967319204
+80,deBridge DLN,bridges,5187,0.4760956175298805
+81,Katana,exchange,5066,-0.1565101565101565
+82,Morpho,lending,4782,1.0550064460678985
+83,peaq,blockchains-l1,4296,2.4313099041533546
+84,Pendle,asset-management,4216,0.381389252948886
+85,Polkadot,blockchains-l1,4107,-0.24545287525261805
+86,Ether.fi,liquid-staking,4042,0.5875883739198743
+87,Euler,lending,3858,1.331117824773414
+88,Thena,exchange,3821,0.12085655617483133
+89,Moonwell,lending,3820,3.0509013785790033
+90,BOB,blockchains-l2,3803,0.6073541842772612
+91,Curve,exchange,3317,0.22308259587020648
+92,Shadow,exchange,3078,0.5336322869955157
+93,Drift Protocol,derivatives,2993,0.10402065658428625
+94,Ramses Exchange,exchange,2961,0.13884615384615384
+95,Blast,blockchains-l2,2934,-0.8301886792452831
+96,dYdX,derivatives,2911,0.3789673140691615
+97,Pharaoh,exchange,2844,0.2736229287953426
+98,OpenChat,social,2792,-0.04153793340199107
+99,BONKbot,infrastructure,2741,-0.2779241306638567
+100,CoW Protocol,dex-aggregators,2695,0.6128067025733094
+101,bloXroute,infrastructure,2356,-0.44642857142857145
+102,Celestia,blockchains-l1,2316,-0.2423945044160942
+103,GMX,derivatives,2167,0.5207017543859649
+104,Layer3,infrastructure,1836,-0.1799910674408218
+105,Bloom Trading Bot,infrastructure,1752,-0.42216358839050133
+106,Axelar Network,interoperability,1597,1.7345890410958904
+107,SynFutures,derivatives,1539,-0.4185870797128825
+108,XDC Network,blockchains-l1,1454,0.08265078183172003
+109,Shape,blockchains-l2,1429,-0.5570365778053317
+110,SolTradingBot,infrastructure,1408,-0.2757201646090535
+111,Aster,derivatives,1404,7.666666666666667
+112,MANTRA,blockchains-l1,1389,1.5486238532110093
+113,Moonbeam,blockchains-l2,1315,-0.15813060179257363
+114,Maestro,infrastructure,1301,-0.347215253386854
+115,Pangolin,exchange,1264,0.26907630522088355
+116,Mode Network,blockchains-l2,1244,-0.34491837809373355
+117,Beets,exchange,1179,1.3208661417322836
+118,Silo Finance,lending,904,0.6897196261682244
+119,Conflux Core Space,blockchains-l1,827,-0.37253414264036416
+120,SpookySwap,exchange,808,0.6323232323232323
+121,Thruster,exchange,803,0.044213263979193757
+122,Blur,nft,761,0.013315579227696404
+123,Venus,lending,734,0.5291666666666667
+124,Hydration,blockchains-l2,727,-0.6902428632296549
+125,Zerion,infrastructure,647,0.6379746835443038
+126,Astar,blockchains-l2,556,0.01090909090909091
+127,Honeypop,exchange,546,-0.052083333333333336
+128,Superseed,blockchains-l2,499,-0.8100494861058242
+129,Dolomite,lending,499,0.07311827956989247
+130,Helio,infrastructure,462,-0.4038709677419355
+131,SyncSwap,exchange,446,0.24581005586592178
+132,Tokenlon,dex-aggregators,444,-0.022026431718061675
+133,Compound,lending,431,0.9070796460176991
+134,Kusama,blockchains-l1,429,-0.025
+135,BENQI,lending,360,1.1951219512195121
+136,Chainlink,interoperability,331,0.05750798722044728
+137,Lido Finance,liquid-staking,323,-0.2625570776255708
+138,Mina Protocol,blockchains-l1,294,0.33031674208144796
+139,zkSwap Finance,exchange,283,0.9383561643835616
+140,Unique Network,blockchains-l2,282,-0.07540983606557378
+141,Ethereum Name Service,infrastructure,281,-0.33726415094339623
+142,Allbridge Core,bridges,253,1.3644859813084111
+143,Phala,blockchains-l2,223,-0.05907172995780591
+144,Equalizer Exchange,exchange,208,0.5072463768115942
+145,Symbiotic,liquid-staking,158,0.09722222222222222
+146,NeuroWeb,blockchains-l2,158,-0.24401913875598086
+147,Wombat Exchange,exchange,157,-0.01875
+148,Verse,exchange,156,0.7528089887640449
+149,Zyberswap,exchange,153,-0.35714285714285715
+150,Eigenlayer,liquid-staking,153,0.2644628099173554
+151,Marinade,liquid-staking,142,-0.1069182389937107
+152,Clipper,exchange,131,0.6172839506172839
+153,Acala Network,blockchains-l2,128,-0.36318407960199006
+154,BMX,derivatives,127,0.8142857142857143
+155,Merkle Trade,derivatives,124,0.25252525252525254
+156,Convex Finance,asset-management,120,0.02564102564102564
+157,Spark,lending,101,0.463768115942029
+158,Sky,stablecoin-issuers,92,0.4375
+159,Robonomics Network,blockchains-l2,80,-0.024390243902439025
+160,ZeroLend,lending,78,1.0526315789473684
+161,StakeWise,liquid-staking,78,0.08333333333333333
+162,SolidLizard,exchange,75,-0.42748091603053434
+163,Tornado Cash,infrastructure,72,-0.3333333333333333
+164,Maple Finance,lending,71,1.2903225806451613
+165,Bifrost,blockchains-l2,71,-0.06578947368421052
+166,Bancor,exchange,65,0.1016949152542373
+167,BENQI Liquid Staking,liquid-staking,63,-0.045454545454545456
+168,Interlay,blockchains-l2,58,0.7058823529411765
+169,Aura Finance,asset-management,56,-0.2328767123287671
+170,Aperture,exchange,49,-0.07547169811320754
+171,Energy Web X,blockchains-l2,48,0.2972972972972973
+172,Darwinia Network,blockchains-l2,47,0.06818181818181818
+173,Synapse,bridges,46,0.7037037037037037
+174,Rarible,nft,41,-0.2545454545454545
+175,Trevee,liquid-staking,37,-0.13953488372093023
+176,Thales,derivatives,36,-0.12195121951219512
+177,Centrifuge,blockchains-l2,32,0.18518518518518517
+178,Solv Protocol,liquid-staking,31,-0.03125
+179,Seamless Protocol,lending,29,0.03571428571428571
+180,Reserve,asset-management,27,-0.2894736842105263
+181,Gamma Strategies,asset-management,19,0.05555555555555555
+182,Fraxlend,lending,19,0.5833333333333334
+183,Foundation,nft,19,
+184,Flashbots,infrastructure,18,0.2
+185,deBridge,interoperability,18,0.058823529411764705
+186,MUX,derivatives,17,-0.15
+187,Index Cooperative,asset-management,16,
+188,Hyperbridge,blockchains-l2,16,
+189,StakeStone,liquid-staking,14,
+190,NFTX,nft,14,-0.5483870967741935
+191,Rocket Pool,liquid-staking,13,0.08333333333333333
+192,Origin Protocol,liquid-staking,13,-0.13333333333333333
+193,Hegic,derivatives,13,
+194,HMX,derivatives,12,
+195,The Graph,infrastructure,9,
+196,Stader,liquid-staking,9,-0.4
+197,Pendulum,blockchains-l2,9,
+198,Perpetual Protocol,derivatives,8,-0.5294117647058824
+199,Litentry,blockchains-l2,6,
+200,friend.tech,social,6,
+201,DFX Finance,exchange,6,
+202,BendDAO,lending,6,
+203,Zora,nft,5,
+204,Gearbox,lending,5,
+205,Coinshift,stablecoin-issuers,5,-0.5454545454545454
+206,Zeitgeist,blockchains-l2,4,-0.6666666666666666
+207,Sudoswap,nft,4,
+208,PoolTogether,asset-management,4,-0.7777777777777778
+209,Nodle,blockchains-l2,4,-0.989010989010989
+210,Ankr,liquid-staking,4,
+211,Liquity,stablecoin-issuers,3,
+212,Hop Protocol,bridges,3,
+213,Ethena,stablecoin-issuers,3,
+214,Toucan Protocol,infrastructure,2,
+215,Synthetix,derivatives,2,
+216,Swell,liquid-staking,2,
+217,Shoebill Finance,lending,2,
+218,Radiant Capital,lending,2,
+219,Abracadabra.money,stablecoin-issuers,2,
+220,Liquid Collective,liquid-staking,1,
+221,Kilt,blockchains-l2,1,-0.9893617021276596
+222,Goldfinch,lending,1,
+223,Frax Ether,liquid-staking,1,
+224,Aventus,blockchains-l2,1,
+225,Ajuna Network,blockchains-l2,1,
+226,zkSync Era Bridge,bridges,,
+227,XOXNO,nft,,
+228,X2Y2,nft,,
+229,Voltz,derivatives,,
+230,Volmex,derivatives,,
+231,Vesta Finance,stablecoin-issuers,,
+232,Vertex,derivatives,,
+233,Unipilot,asset-management,,
+234,TrueFi,lending,,
+235,Thetanuts,asset-management,,
+236,Swarm,infrastructure,,
+237,StaFi,liquid-staking,,
+238,Sound.xyz,nft,,
+239,Ribbon Finance,asset-management,,
+240,Ren,bridges,,
+241,Prisma Finance,stablecoin-issuers,,
+242,Premia,derivatives,,
+243,Polynomial Protocol,derivatives,,
+244,Pika Protocol,derivatives,,
+245,Osmosis,exchange,,
+246,Opyn,derivatives,,
+247,Notional Finance,lending,,
+248,Nexus Mutual,insurance,,
+249,Mummy Finance,derivatives,,
+250,Metavault.Trade,derivatives,,
+251,Lybra Finance,stablecoin-issuers,,
+252,LooksRare,nft,,
+253,Lighter,exchange,,
+254,Level Finance,derivatives,,
+255,Lens Protocol,social,,
+256,Kwenta,derivatives,,
+257,IPOR Protocol,derivatives,,
+258,Holdstation,derivatives,,
+259,Frequency,blockchains-l2,,-1
+260,Dopex,derivatives,,
+261,Deri Protocol,derivatives,,
+262,Cryptex,asset-management,,
+263,Cronos,blockchains-l1,,
+264,Everclear (previously Connext),bridges,,
+265,Cap,derivatives,,
+266,Buffer Finance,derivatives,,
+267,Bounce Finance,infrastructure,,
+268,BetSwirl,prediction-markets,,
+269,Azuro,prediction-markets,,
+270,AirSwap,dex-aggregators,,-1
+271,Across,bridges,,
+272,0x,exchange,,
